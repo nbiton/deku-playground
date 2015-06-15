@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "deku": "^0.4.5"
+    "deku": "^0.4.5",
+    "react": "^0.13.3"
   },
   "devDependencies": {
     "babelify": "^6.1.2"
