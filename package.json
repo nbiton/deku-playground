@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "deku": "^0.4.5"
+  },
+  "devDependencies": {
+    "babelify": "^6.1.2"
   }
 }
